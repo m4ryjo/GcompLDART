@@ -4,5 +4,5 @@ Performes G-computation using longitudinal Dirichlet additive regression trees (
 implements Soft BART with the sparsity-inducing longitudinal Dirichlet (L-Dirichlet) prior as described in "Long-term cognitive effects of an incremental blood pressure intervention in a mortal cohort".
 # Threshold Intervention
 R code for analyses of the Betula data 
-# Ntree .
+# Sim_study_ITI
 R code to perform the simulation study
